@@ -1,7 +1,7 @@
 # password_generator
 ## features
 * generate password
-* password's content, length ed by user
+* password's content, length selected by user
 * warned when password is invalid
 ## environment setup
 * install node.js & npm
